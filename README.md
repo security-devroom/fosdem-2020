@@ -45,5 +45,6 @@ Schedule:
   * You! - any help with organizing is highly appreciated!
   * Jakub Jelen (jjelen@redhat.com)
   * Tomas Mraz (tmaz@fedoraproject.org)
+  * Simon Josefsson (simon@josefsson.org)
   * Join [security-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/security-devroom) mailing list for further communication
 
