@@ -1,6 +1,6 @@
 # Security Devroom @ FOSDEM'20
 
-[FOSDEM 2020](https://fosdem.org/2020/) has, once again, a security devroom, this time on the topic of _"Practial use of security technologies"_. 
+[FOSDEM 2020](https://fosdem.org/2020/) has, once again, a security devroom, this time on the topic of _"Practical use of security technologies"_. 
 
 The security devroom will be held on **Saturday 1st of February 2020** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
 
